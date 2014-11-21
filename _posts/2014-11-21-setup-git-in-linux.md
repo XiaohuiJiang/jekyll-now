@@ -2,6 +2,7 @@
 layout: post
 title: set up git in linux for github
 ---
+
 ```
    16  mkdir github
    17  cd github/
