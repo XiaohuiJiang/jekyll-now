@@ -4,6 +4,7 @@ title: set up git in linux for github
 ---
 
 ```
+
    16  mkdir github
    17  cd github/
    18  sudo
